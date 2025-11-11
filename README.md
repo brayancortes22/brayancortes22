@@ -62,6 +62,12 @@ Soy estudiante de Desarrollo de Software con título técnico y actualmente curs
 - Aplicaciones con backend (PHP / C#) para manejo de datos y autenticación básica.
 - Proyectos académicos realizados en el SENA enfocados en integración y buenas prácticas.
 
+## Métricas de código (automáticas)
+
+La imagen siguiente se genera automáticamente desde los repositorios públicos del usuario (lenguajes por bytes y conteo de extensiones). Se actualiza mediante un GitHub Action que ejecuta un script y sube la imagen a `assets/code_stats.png`.
+
+![Estadísticas de código](assets/code_stats.png)
+
 ## Contacto
 
 - 📞 Teléfono: +57 310 2944 906
