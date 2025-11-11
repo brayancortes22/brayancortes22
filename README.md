@@ -8,6 +8,7 @@ Desarrollador Full-Stack
 [![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://tecniapp.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bscl20062007@gmail.com)
 [![Email](https://img.shields.io/badge/Email-brayancortes22-6f42c1?style=for-the-badge&logo=mailchimp&logoColor=white)](mailto:brayanstidcorteslombana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-cortes-94a169334)
 
 ---
 
@@ -63,6 +64,8 @@ Si quieres que comparta enlaces a repositorios concretos o demos en vivo, los a�
 - ✉️ Email: [bscl20062007@gmail.com](mailto:bscl20062007@gmail.com)
 - ✉️ Email alternativo: [brayanstidcorteslombana@gmail.com](mailto:brayanstidcorteslombana@gmail.com)
 
+- 🔗 LinkedIn: [brayan-cortes](https://www.linkedin.com/in/brayan-cortes-94a169334)
+
 ---
 
 ## Estadísticas de GitHub
@@ -71,17 +74,3 @@ Estas tarjetas muestran estadísitcas públicas de GitHub (si el nombre de usuar
 
 ![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayancortes22&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayancortes22&layout=compact&theme=radical)
-
-## Idiomas
-
-- Español: Nativo
-- Inglés: A2 — comprensión básica y conversaciones sencillas
-
-## Hobbies
-
-- Escuchar música
-- Jugar fútbol sala
-- Aprender sobre nuevas tecnologías
-- Participar en proyectos personales de desarrollo
-
-
