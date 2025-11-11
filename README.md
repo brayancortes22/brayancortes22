@@ -12,6 +12,13 @@ Desarrollador Full-Stack
 
 ---
 
+## Estadísticas de GitHub
+
+Estas tarjetas muestran estadísitcas públicas de GitHub (si el nombre de usuario es correcto aparecerán datos reales):
+
+![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayancortes22&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayancortes22&layout=compact&theme=radical)
+
 ## Sobre mí
 
 Soy estudiante de Desarrollo de Software con título técnico y actualmente cursando el tecnólogo en Análisis y Desarrollo de Software en el SENA. Me estoy formando como desarrollador junior full‑stack, con experiencia en desarrollo frontend y backend. Busco retos que me permitan aplicar y ampliar mis conocimientos, mejorar mis habilidades técnicas y crecer como profesional en el mundo del software.
@@ -19,7 +26,7 @@ Soy estudiante de Desarrollo de Software con título técnico y actualmente curs
 ## Tecnologías y habilidades
 
 - 🧭 Frontend: React, Vite, Tailwind CSS, HTML5, CSS3, JavaScript
-- 🗄️ Backend: PHP, C#
+- 🗄️ Backend: PHP, C#, Python
 - 🛢️ Bases de datos: MySQL / SQL (integración y consultas)
 - 🔧 Control de versiones: Git, GitHub
 - ✅ Buenas prácticas: accesibilidad, rendimiento, optimización de carga
@@ -55,8 +62,6 @@ Soy estudiante de Desarrollo de Software con título técnico y actualmente curs
 - Aplicaciones con backend (PHP / C#) para manejo de datos y autenticación básica.
 - Proyectos académicos realizados en el SENA enfocados en integración y buenas prácticas.
 
-Si quieres que comparta enlaces a repositorios concretos o demos en vivo, los añado con gusto.
-
 ## Contacto
 
 - 📞 Teléfono: +57 310 2944 906
@@ -68,9 +73,3 @@ Si quieres que comparta enlaces a repositorios concretos o demos en vivo, los a�
 
 ---
 
-## Estadísticas de GitHub
-
-Estas tarjetas muestran estadísitcas públicas de GitHub (si el nombre de usuario es correcto aparecerán datos reales):
-
-![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayancortes22&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayancortes22&layout=compact&theme=radical)
