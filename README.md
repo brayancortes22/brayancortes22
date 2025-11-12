@@ -70,12 +70,20 @@ La imagen siguiente se genera automáticamente desde los repositorios públicos 
 
 ## Contacto
 
-- 📞 Teléfono: +57 310 2944 906
-- 📍 Dirección: Cl 29oe #5w-16, Santa Inés, Neiva‑Huila, Colombia
-- ✉️ Email: [bscl20062007@gmail.com](mailto:bscl20062007@gmail.com)
-- ✉️ Email alternativo: [brayanstidcorteslombana@gmail.com](mailto:brayanstidcorteslombana@gmail.com)
 
-- 🔗 LinkedIn: [brayan-cortes](https://www.linkedin.com/in/brayan-cortes-94a169334)
+<!-- Contacto mediante botones (evita mostrar datos en texto plano) -->
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp--Enviar%20mensaje-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573102944906?text=Hola%20Brayan%2C%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub)
+[![Correo](https://img.shields.io/badge/Correo--Enviar%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bscl20062007@gmail.com)
+[![Correo alternativo](https://img.shields.io/badge/Correo%20alternativo--Enviar%20correo-6f42c1?style=for-the-badge&logo=mailchimplite&logoColor=white)](mailto:brayanstidcorteslombana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--Visitar%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-cortes-94a169334)
+
+<details>
+<summary>📍 Dirección (clic para mostrar)</summary>
+
+Cl 29oe #5w-16, Santa Inés, Neiva‑Huila, Colombia
+
+</details>
 
 ---
 
