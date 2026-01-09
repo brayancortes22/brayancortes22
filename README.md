@@ -11,7 +11,7 @@ Desarrollador Full-Stack
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-cortes-94a169334)
 
 ---
-
+<!-- 
 ## Estadísticas de GitHub
 
 Estas tarjetas muestran estadísitcas públicas de GitHub (si el nombre de usuario es correcto aparecerán datos reales):
@@ -20,7 +20,7 @@ Estas tarjetas muestran estadísitcas públicas de GitHub (si el nombre de usuar
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayancortes22&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayancortes22&layout=compact&theme=radical) -->
 
 
 ## Sobre mí
