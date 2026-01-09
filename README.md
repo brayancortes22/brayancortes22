@@ -18,6 +18,8 @@ Estas tarjetas muestran estadísitcas públicas de GitHub (si el nombre de usuar
 
 ![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayancortes22&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayancortes22&layout=compact&theme=radical)
 
 
