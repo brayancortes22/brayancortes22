@@ -30,8 +30,8 @@ Soy estudiante de Desarrollo de Software con título técnico y actualmente curs
 ## Tecnologías y habilidades
 
 - 🧭 Frontend: React, Vite, Tailwind CSS, HTML5, CSS3, JavaScript
-- 🗄️ Backend: PHP, C#, Python
-- 🧾 ERP: Microsoft Dynamics 365 Finance and Operations (desarrollo)
+- 🗄️ Backend: PHP, C#, Python, X++ (D365 F&O)
+- 🧾 ERP: Microsoft Dynamics 365 Finance and Operations (desarrollador)
 - 🛢️ Bases de datos: MySQL / SQL (integración y consultas)
 - 🔧 Control de versiones: Git, GitHub
 - ✅ Buenas prácticas: accesibilidad, rendimiento, optimización de carga
@@ -45,10 +45,13 @@ Soy estudiante de Desarrollo de Software con título técnico y actualmente curs
 ![C%23](https://img.shields.io/badge/C%23-✔️%2065%25-239120)
 ![Git](https://img.shields.io/badge/Git-✔️%2080%25-F05032)
 ![Dynamics 365 F&O](https://img.shields.io/badge/Dynamics%20365%20F%26O-✔️%2060%25-0078D4)
-
-![Dynamics 365 F&O](https://img.shields.io/badge/Dynamics%20365%20F%26O-✔️%2060%25-0078D4)
+![X++](https://img.shields.io/badge/X++-✔️%2065%25-0078D4?logo=microsoft)
 
 ## Experiencia
+**2026 — Desarrollador Microsoft Dynamics 365 F&O**
+- **Personalización de Procesos de Negocio**: Modificación de clases base y formularios mediante extensiones para adaptar el ERP a necesidades específicas.
+- **Informes SSRS**: Diseño y ajuste de formatos de documentos comerciales (órdenes de compra, cotizaciones y facturas) utilizando Visual Studio.
+- **Desarrollo en X++**: Implementación de lógica de negocio compleja y manejo de estructuras de datos dentro del ecosistema de Microsoft.
 
 2023–2025 — Desarrollador Web Full‑Stack (proyectos propios y freelance)
 
