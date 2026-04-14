@@ -25,12 +25,13 @@ Estas tarjetas muestran estadísitcas públicas de GitHub (si el nombre de usuar
 
 ## Sobre mí
 
-Soy estudiante de Desarrollo de Software con título técnico y actualmente cursando el tecnólogo en Análisis y Desarrollo de Software en el SENA. Me estoy formando como desarrollador junior full‑stack, con experiencia en desarrollo frontend y backend. Busco retos que me permitan aplicar y ampliar mis conocimientos, mejorar mis habilidades técnicas y crecer como profesional en el mundo del software.
+Soy estudiante de Desarrollo de Software con título técnico y actualmente cursando el tecnólogo en Análisis y Desarrollo de Software en el SENA. Me estoy formando como desarrollador junior ful[...]  
 
 ## Tecnologías y habilidades
 
 - 🧭 Frontend: React, Vite, Tailwind CSS, HTML5, CSS3, JavaScript
 - 🗄️ Backend: PHP, C#, Python
+- 🧾 ERP: Microsoft Dynamics 365 Finance and Operations (desarrollo)
 - 🛢️ Bases de datos: MySQL / SQL (integración y consultas)
 - 🔧 Control de versiones: Git, GitHub
 - ✅ Buenas prácticas: accesibilidad, rendimiento, optimización de carga
@@ -43,6 +44,9 @@ Soy estudiante de Desarrollo de Software con título técnico y actualmente curs
 ![PHP](https://img.shields.io/badge/PHP-✔️%2070%25-777BB4)
 ![C%23](https://img.shields.io/badge/C%23-✔️%2065%25-239120)
 ![Git](https://img.shields.io/badge/Git-✔️%2080%25-F05032)
+![Dynamics 365 F&O](https://img.shields.io/badge/Dynamics%20365%20F%26O-✔️%2060%25-0078D4)
+
+![Dynamics 365 F&O](https://img.shields.io/badge/Dynamics%20365%20F%26O-✔️%2060%25-0078D4)
 
 ## Experiencia
 
@@ -68,7 +72,7 @@ Soy estudiante de Desarrollo de Software con título técnico y actualmente curs
 
 ## Métricas de código (automáticas)
 
-La imagen siguiente se genera automáticamente desde los repositorios públicos del usuario (lenguajes por bytes y conteo de extensiones). Se actualiza mediante un GitHub Action que ejecuta un script y sube la imagen a `assets/code_stats.png`.
+La imagen siguiente se genera automáticamente desde los repositorios públicos del usuario (lenguajes por bytes y conteo de extensiones). Se actualiza mediante un GitHub Action que ejecuta un scr[...]  
 
 ![Estadísticas de código](assets/code_stats.png)
 
@@ -77,7 +81,7 @@ La imagen siguiente se genera automáticamente desde los repositorios públicos 
 
 <!-- Contacto mediante botones (evita mostrar datos en texto plano) -->
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp--Enviar%20mensaje-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573102944906?text=Hola%20Brayan%2C%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp--Enviar%20mensaje-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573102944906?text=Hola%20Brayan%2C%20te%20contacto%20d[...]
 [![Correo](https://img.shields.io/badge/Correo--Enviar%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bscl20062007@gmail.com)
 [![Correo alternativo](https://img.shields.io/badge/Correo%20alternativo--Enviar%20correo-6f42c1?style=for-the-badge&logo=mailchimplite&logoColor=white)](mailto:brayanstidcorteslombana@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--Visitar%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-cortes-94a169334)
@@ -90,4 +94,3 @@ Calle 42 #5w - 39 conjunto residencial portal de San Felipe , Neiva‑Huila, Col
 </details>
 
 ---
-
