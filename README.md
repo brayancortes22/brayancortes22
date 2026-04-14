@@ -85,7 +85,7 @@ La imagen siguiente se genera automáticamente desde los repositorios públicos 
 <details>
 <summary>📍 Dirección (clic para mostrar)</summary>
 
-Cl 29oe #5w-16, Santa Inés, Neiva‑Huila, Colombia
+Calle 42 #5w - 39 conjunto residencial portal de San Felipe , Neiva‑Huila, Colombia
 
 </details>
 
