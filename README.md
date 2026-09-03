@@ -1,99 +1,156 @@
 # BRAYAN STID CORTES LOMBANA
 
-Desarrollador Full-Stack
+**Desarrollador Full-Stack | Ecosistema Microsoft (.NET, C#, Dynamics 365 F&O) & Frontend Moderno (React, TypeScript)**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/brayan-stid-cortes-lombana">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/573102944906?text=Hola%20Brayan%2C%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:brayanstidcorteslombana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://accesorios-lilis-2026.vercel.app">
+    <img src="https://img.shields.io/badge/Deploy-Accesorios%20Lil%C3%ADs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Accesorios Lilis Live" />
+  </a>
+  <a href="https://tecniapp.netlify.app/">
+    <img src="https://img.shields.io/badge/Deploy-TecniApp-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="TecniApp Live" />
+  </a>
+</p>
 
 ---
 
-<!-- Badges de contacto y despliegue -->
-[![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://tecniapp.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bscl20062007@gmail.com)
-[![Email](https://img.shields.io/badge/Email-brayancortes22-6f42c1?style=for-the-badge&logo=mailchimp&logoColor=white)](mailto:brayanstidcorteslombana@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-cortes-94a169334)
+## 👨‍💻 Perfil Profesional
+
+Desarrollador Full-Stack especializado en el **ecosistema Microsoft** y tecnologías de **frontend moderno**. Experiencia sólida en la construcción de soluciones empresariales utilizando **C#, .NET, X++ (Dynamics 365 Finance & Operations), React y .NET MAUI**. Orientado a la arquitectura de software escalable, aplicando principios **SOLID** y metodologías de **Clean Code** para garantizar la mantenibilidad, seguridad y eficiencia a nivel de base de datos e integraciones.
+
+📍 **Ubicación:** Neiva, Huila, Colombia  
+📞 **Teléfono / WhatsApp:** [+57 310 2944 906](https://wa.me/573102944906)  
+✉️ **Correo:** [brayanstidcorteslombana@gmail.com](mailto:brayanstidcorteslombana@gmail.com)  
 
 ---
-<!-- 
-## Estadísticas de GitHub
 
-Estas tarjetas muestran estadísitcas públicas de GitHub (si el nombre de usuario es correcto aparecerán datos reales):
+## 💼 Experiencia Profesional
 
-![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayancortes22&show_icons=true&theme=radical)
+### **Desarrollador Dynamics 365**
+**Software Resources Factory S.A.S** | *2026 (6 meses)*
+- **Personalizaciones & Extensiones:** Desarrollo de personalizaciones y extensiones para **Microsoft Dynamics 365 Finance & Operations** utilizando **X++**.
+- **Lógica de Negocio & Formularios:** Modificación e implementación de clases de delegación, formularios de cotizaciones de ventas y reportes de órdenes de compra (SSRS) directamente en Visual Studio.
+- **Entidades de Datos & Depuración:** Extensión de entidades de datos (`WHSShipmentSalesTableEntity` y tablas de staging) y depuración técnica de transacciones de inventario (`PurchLine`, `InventTransId`).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayancortes22&layout=compact&theme=radical) -->
+## 🚀 Proyectos Destacados
 
+### 💎 [Accesorios Lilís — Plataforma Web Oficial & E-Commerce Artesanal](https://accesorios-lilis-2026.vercel.app)
+> **Producción en Vivo:** [accesorios-lilis-2026.vercel.app](https://accesorios-lilis-2026.vercel.app) | **Repositorio:** [github.com/brayancortes22/accesorios-lilis](https://github.com/brayancortes22/accesorios-lilis)
 
-## Sobre mí
+[![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C# .NET](https://img.shields.io/badge/ASP.NET%20Core%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Google OAuth](https://img.shields.io/badge/Google-Identity%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white)](https://cloud.google.com/)
 
-Soy estudiante de Desarrollo de Software con título técnico y actualmente cursando el tecnólogo en Análisis y Desarrollo de Software en el SENA. Me estoy formando como desarrollador junior ful[...]  
+Plataforma de comercio electrónico y catálogo interactivo creada para el taller artesanal de bisutería y piezas hechas a mano en Algeciras (Huila).
+- **Arquitectura Full-Stack:** Frontend desacoplado con React 19, TypeScript estricto, hooks personalizados (`useAuth`, `useCart`, `useProducts`) y API REST con ASP.NET Core y Entity Framework Core.
+- **Seguridad & Autenticación Dinámica:** Flujo de verificación de email en 2 pasos, hashing criptográfico de contraseñas con PBKDF2-SHA256 (100.000 iteraciones), JWT Bearer tokens e integración oficial de **Google Identity Services (Google OAuth SSO)**.
+- **Roles y Gestión:** Panel administrativo de control de inventario, administración de pedidos con trazabilidad de paquetería y enlace directo a WhatsApp para atención al cliente.
+- **DevOps y Automatización:** Pipeline CI/CD con GitHub Actions escalonado (`development` → `qa` → `main`) con chequeo estricto de TypeScript en cada fase y script local de automatización en un clic ([`escalar.bat`](file:///c:/Users/NITRO%20ACER/Desktop/proyectos%20con%20ia/Accesorios%20lilis/escalar.bat)).
+- **SEO Avanzado & Presencia Digital:** Verificación oficial en Google Search Console, Schema.org `JewelryStore` con geolocalización satelital, mapa interactivo oficial de **Google Maps** (taller y punto de venta) y metadatos OpenGraph.
 
-## Tecnologías y habilidades
+---
 
-- 🧭 Frontend: React, Vite, Tailwind CSS, HTML5, CSS3, JavaScript
-- 🗄️ Backend: PHP, C#, Python, X++ (D365 F&O)
-- 🧾 ERP: Microsoft Dynamics 365 Finance and Operations (desarrollador)
-- 🛢️ Bases de datos: MySQL / SQL (integración y consultas)
-- 🔧 Control de versiones: Git, GitHub
-- ✅ Buenas prácticas: accesibilidad, rendimiento, optimización de carga
+### 🎓 Portal de Autogestión SENA — Plataforma Web & Móvil
+> **Rol:** Desarrollador Full-Stack
 
-### Habilidades (visual)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/maui)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-![React](https://img.shields.io/badge/React-✔️%2090%25-61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-✔️%2085%25-F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-✔️%2080%25-06B6D4)
-![PHP](https://img.shields.io/badge/PHP-✔️%2070%25-777BB4)
-![C%23](https://img.shields.io/badge/C%23-✔️%2065%25-239120)
-![Git](https://img.shields.io/badge/Git-✔️%2080%25-F05032)
-![Dynamics 365 F&O](https://img.shields.io/badge/Dynamics%20365%20F%26O-✔️%2060%25-0078D4)
-![X++](https://img.shields.io/badge/X++-✔️%2065%25-0078D4?logo=microsoft)
+Plataforma integral desarrollada para la administración y asignación eficiente de instructores de etapa productiva.
+- **Backend Robusto:** Lógica de negocio y endpoints RESTful con Python y Django, gestionando persistencia relacional con MySQL.
+- **Frontend Moderno:** Interfaz web en React con TypeScript garantizando modularidad y componentes tipados.
+- **Aplicación Móvil:** Desarrollo de la versión móvil nativa multiplataforma utilizando **.NET MAUI**.
+- **Ingeniería de Software:** Modelado entidad-relación en Draw.io, mockups y prototipos UI/UX en Figma, y aseguramiento de calidad con pruebas unitarias y de integración en C#.
 
-## Experiencia
-**2026 — Desarrollador Microsoft Dynamics 365 F&O**
-- **Personalización de Procesos de Negocio**: Modificación de clases base y formularios mediante extensiones para adaptar el ERP a necesidades específicas.
-- **Informes SSRS**: Diseño y ajuste de formatos de documentos comerciales (órdenes de compra, cotizaciones y facturas) utilizando Visual Studio.
-- **Desarrollo en X++**: Implementación de lógica de negocio compleja y manejo de estructuras de datos dentro del ecosistema de Microsoft.
+---
 
-2023–2025 — Desarrollador Web Full‑Stack (proyectos propios y freelance)
+### ⚡ [TecniApp — Plataforma de Servicios](https://tecniapp.netlify.app/)
+> **Producción en Vivo:** [tecniapp.netlify.app](https://tecniapp.netlify.app/)
 
-- Desarrollo de landing pages modernas utilizando React + Vite y estilos con Tailwind CSS, enfocadas en velocidad de carga y experiencia de usuario.
-- Creación de aplicaciones web funcionales con PHP y C#, integrando bases de datos y lógica del lado servidor.
-- Gestión de proyectos personales para aprendizaje continuo, adopción de buenas prácticas y uso de control de versiones (Git).
-- Participación en proyectos académicos dentro de mi formación en el SENA.
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-## Educación
+Aplicación web moderna orientada a la gestión y solicitud de servicios técnicos, enfocada en alta velocidad de carga, diseño responsivo y optimización de experiencia de usuario.
 
-- 2024–2025: Tecnólogo en Análisis y Desarrollo de Software — SENA (Servicio Nacional de Aprendizaje)
-- 2023: Técnico en Análisis y Desarrollo de Software — Institución Educativa Juan XXIII
-- 2023: Bachiller Académico
+---
 
-## Proyectos destacados
+## 🛠️ Habilidades Técnicas
 
-- **TecniApp** — Plataforma de servicios (despliegue): [https://tecniapp.netlify.app/](https://tecniapp.netlify.app/) — Proyecto desplegado con frontend moderno y optimizado.
-- Landing pages y pequeños sitios de presentación: optimización con Vite y Tailwind.
-- Aplicaciones con backend (PHP / C#) para manejo de datos y autenticación básica.
-- Proyectos académicos realizados en el SENA enfocados en integración y buenas prácticas.
+| Área | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Backend & ERP** | C#, ASP.NET Core Web API, X++ (Dynamics 365 F&O), Python (Django), LINQ, Entity Framework Core, PHP |
+| **Frontend & Mobile** | React 19, TypeScript, JavaScript (ES6+), .NET MAUI, Vite, HTML5, CSS3 Modular, Tailwind CSS |
+| **Bases de Datos** | SQL Server, MySQL, Entity Framework, Modelado relacional |
+| **Arquitectura & Metodologías** | Clean Code, Principios SOLID, Arquitectura en Capas, APIs RESTful |
+| **DevOps & Nube** | GitHub Actions (CI/CD Pipelines), Azure DevOps, Git, GitHub, Vercel, Netlify, Linux |
+| **Seguridad & APIs** | OAuth 2.0 / Google Identity SSO, JWT Bearer, PBKDF2-SHA256, Google Maps API, Google Search Console |
 
-## Métricas de código (automáticas)
+---
 
-La imagen siguiente se genera automáticamente desde los repositorios públicos del usuario (lenguajes por bytes y conteo de extensiones). Se actualiza mediante un GitHub Action que ejecuta un scr[...]  
+## 🎓 Educación
+
+- **Tecnólogo en Análisis y Desarrollo de Software**  
+  *SENA (Servicio Nacional de Aprendizaje) — Neiva, Colombia* | **2024 – 2026**
+- **Técnico en Análisis y Desarrollo de Software**  
+  *SENA — Algeciras, Huila, Colombia* | **2022 – 2023**
+- **Bachiller Académico**  
+  *Institución Educativa Juan XXIII — Algeciras, Huila, Colombia* | **2023**
+
+---
+
+## 🌐 Idiomas
+
+- **Español:** Nativo
+- **Inglés:** A2 (Lectura técnica y comprensión de documentación)
+
+---
+
+## 📊 Métricas de Código
 
 ![Estadísticas de código](assets/code_stats.png)
 
-## Contacto
+---
 
+## 📬 Contacto
 
-<!-- Contacto mediante botones (evita mostrar datos en texto plano) -->
+¿Tienes un proyecto en mente o una propuesta laboral? Estaré encantado de conversar:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp--Enviar%20mensaje-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573102944906?text=Hola%20Brayan%2C%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub)
-[![Correo](https://img.shields.io/badge/Correo--Enviar%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bscl20062007@gmail.com)
-[![Correo alternativo](https://img.shields.io/badge/Correo%20alternativo--Enviar%20correo-6f42c1?style=for-the-badge&logo=mailchimplite&logoColor=white)](mailto:brayanstidcorteslombana@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--Visitar%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-cortes-94a169334)
+<p align="left">
+  <a href="https://www.linkedin.com/in/brayan-stid-cortes-lombana">
+    <img src="https://img.shields.io/badge/LinkedIn-Visitar%20Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/573102944906?text=Hola%20Brayan%2C%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub">
+    <img src="https://img.shields.io/badge/WhatsApp-Enviar%20Mensaje-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:brayanstidcorteslombana@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-brayanstidcorteslombana%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <details>
-<summary>📍 Dirección (clic para mostrar)</summary>
+<summary>📍 Ubicación detallada</summary>
 
-Calle 42 #5w - 39 conjunto residencial portal de San Felipe , Neiva‑Huila, Colombia
-
+Neiva, Huila, Colombia
 </details>
 
 ---
+*Perfil actualizado y mantenido con control de versiones.*
