@@ -15,6 +15,9 @@
   <a href="https://nasa-earth-trend-detective.vercel.app">
     <img src="https://img.shields.io/badge/Deploy-NASA%20Trend%20Detective-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Trend Detective Live" />
   </a>
+  <a href="https://autogestion-sena.vercel.app">
+    <img src="https://img.shields.io/badge/Deploy-Autogesti%C3%B3n%20SENA-39A900?style=for-the-badge&logo=sena&logoColor=white" alt="Autogestión SENA Live" />
+  </a>
   <a href="https://accesorios-lilis-2026.vercel.app">
     <img src="https://img.shields.io/badge/Deploy-Accesorios%20Lil%C3%ADs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Accesorios Lilis Live" />
   </a>
@@ -104,21 +107,28 @@ Herramienta nativa para Android de traducción de videojuegos móviles on-demand
 
 ---
 
-### 🎓 Portal de Autogestión SENA — Plataforma Web & Móvil
-> **Rol:** Desarrollador Full-Stack
+### 🎓 [Portal de Autogestión SENA — Plataforma Web & Móvil Integral](https://autogestion-sena.vercel.app)
+> **Producción en Vivo:** [autogestion-sena.vercel.app](https://autogestion-sena.vercel.app) | **API & Swagger UI:** [autogestion-sena-api.onrender.com/swagger/](https://autogestion-sena-api.onrender.com/swagger/)  
+> **Repositorios GitHub:** [Backend Web API](https://github.com/July173/Back-end-web-API-autogestionSena) · [Frontend Web](https://github.com/July173/autogestionFrontWeb) · [Frontend Móvil](https://github.com/July173/FrontMovilAutogestion)  
+> **Rol:** Full-Stack Lead & Software Architect
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Django 5](https://img.shields.io/badge/Django%205%20DRF-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Python 3.12](https://img.shields.io/badge/Python%203.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/maui)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/maui)
+[![MySQL 8.4](https://img.shields.io/badge/Aiven%20MySQL%208.4-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Celery & Redis](https://img.shields.io/badge/Celery%20%26%20Redis-Workers-37814A?style=flat-square&logo=celery&logoColor=white)](https://docs.celeryq.dev/)
+[![WebSockets](https://img.shields.io/badge/Channels%20Daphne-WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=white)](https://channels.readthedocs.io/)
+[![Vercel & Render](https://img.shields.io/badge/Deploy-Vercel%20%26%20Render-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 
-Plataforma integral desarrollada para la administración y asignación eficiente de instructores de etapa productiva.
-- **Backend Robusto:** Lógica de negocio y endpoints RESTful con Python y Django, gestionando persistencia relacional con MySQL.
-- **Frontend Moderno:** Interfaz web en React con TypeScript garantizando modularidad y componentes tipados.
-- **Aplicación Móvil:** Desarrollo de la versión móvil nativa multiplataforma utilizando **.NET MAUI**.
-- **Ingeniería de Software:** Modelado entidad-relación en Draw.io, mockups y prototipos UI/UX en Figma, y aseguramiento de calidad con pruebas unitarias y de integración en C#.
+Plataforma empresarial de autogestión académica y control de etapa productiva para el SENA, con soporte multiplataforma (Web y Móvil) y gestión en tiempo real.
+- **Clean Architecture en 4 Capas (Backend):** Arquitectura desacoplada en Python 3.12 y Django 5 con separación estricta en `Entities` (ORM relacional), `Repositories` (persistencia desacoplada), `Services` (reglas de negocio y transacciones atómicas) y `ViewSets` (entrega HTTP delgada con documentación automática en Swagger/OpenAPI).
+- **Frontend React 19 & Custom Hooks:** Interfaz reactiva en TypeScript gobernada por Custom Hooks (`useRoles`, `useForms`, `useInstructorAssignments`), Fachada de registro centralizado de endpoints (`ConfigApi.ts` anti-hardcoding), watchdog de expiración de sesión por inactividad (`useIdleTimer`) y bundle splitting optimizado con Vite Rollup chunks (reducción de 1.9 MB a 601 kB).
+- **Asincronía & Automatización con Celery:** Procesamiento en segundo plano con Redis y planificador Celery Beat para tareas recurrentes programadas a nivel de servidor (evaluación y desactivación automática de instructores vencidos a las 00:01 AM).
+- **Notificaciones Push en Tiempo Real:** Comunicación bidireccional mediante protocolo WebSocket con Django Channels y servidor ASGI Daphne para alertas instantáneas de novedades a aprendices, instructores y coordinadores.
+- **ETL & Sincronización Masiva Sofia Plus:** Pipeline de importación y procesamiento en streaming de archivos Excel (`.xlsx`) mediante `openpyxl`, con validación semántica fila por fila y generación de reportes de error.
+- **Cliente Móvil Multiplataforma (.NET MAUI):** Aplicación nativa en C# para Android y Windows con arquitectura espejo de consumo de API (`Endpoints.cs`), persistencia de tokens JWT y 2FA institucional.
 
 ---
 
@@ -138,13 +148,13 @@ Aplicación web moderna orientada a la gestión y solicitud de servicios técnic
 
 | Área | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Backend & ERP** | C# (.NET 10 / ASP.NET Core Web API), X++ (Dynamics 365 F&O), Python (Django), LINQ, Entity Framework Core, Polly (Resilience), PHP |
-| **Bases de Datos & OLAP** | DuckDB (Motor OLAP columnar embebido), Apache Parquet, SQL Server, MySQL, Modelado Relacional & Esquema Estrella |
-| **Frontend & Gráficos 3D** | React 19, TypeScript, Three.js / Globe.gl (WebGL 3D 60 FPS), JavaScript (ES6+), Vite, Tailwind CSS, Glassmorphism UI |
-| **Móvil & Machine Learning** | Android Nativo (Kotlin), Google ML Kit (OCR & On-Device Translation), MediaProjection, .NET MAUI |
-| **Arquitectura & Metodologías** | Clean Code, Principios SOLID, Clean Architecture, Arquitectura en Capas, APIs RESTful, DTOs |
+| **Backend & ERP** | C# (.NET 10 / ASP.NET Core Web API), X++ (Dynamics 365 F&O), Python (Django 5 REST Framework), Celery, Redis, Django Channels (WebSockets/Daphne), LINQ, Entity Framework Core, Polly (Resilience), PHP |
+| **Bases de Datos & OLAP** | DuckDB (Motor OLAP columnar embebido), Apache Parquet, SQL Server, MySQL 8.4 (Aiven Cloud), Modelado Relacional & Esquema Estrella |
+| **Frontend & Gráficos 3D** | React 19, TypeScript, Three.js / Globe.gl (WebGL 3D 60 FPS), Custom Hooks, JavaScript (ES6+), Vite, Tailwind CSS, Glassmorphism UI |
+| **Móvil & Machine Learning** | Android Nativo (Kotlin), Google ML Kit (OCR & On-Device Translation), MediaProjection, .NET MAUI (C#) |
+| **Arquitectura & Metodologías** | Clean Code, Principios SOLID, Clean Architecture en 4 capas (Entity-Repo-Service-ViewSet), DDD Simplificado, APIs RESTful, DTOs, Endpoint Facade |
 | **DevOps & Nube** | GitHub Actions (CI/CD Multi-Branch: `development` / `qa` / `production`), Docker, Azure DevOps, Git, Vercel Edge, Render, Netlify, Linux |
-| **Seguridad & APIs** | OAuth 2.0 / Google Identity SSO, JWT Bearer, PBKDF2-SHA256, NASA EarthData API / CMR, Google Maps API, Google Search Console |
+| **Seguridad & APIs** | 2FA TOTP, OAuth 2.0 / Google Identity SSO, JWT Bearer, PBKDF2-SHA256, OpenAPI / Swagger (drf-yasg), openpyxl (Streaming Excel), NASA EarthData API / CMR, Google Maps API |
 
 ---
 
