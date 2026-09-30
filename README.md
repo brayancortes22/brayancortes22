@@ -12,6 +12,9 @@
   <a href="mailto:brayanstidcorteslombana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://nasa-earth-trend-detective.vercel.app">
+    <img src="https://img.shields.io/badge/Deploy-NASA%20Trend%20Detective-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Trend Detective Live" />
+  </a>
   <a href="https://accesorios-lilis-2026.vercel.app">
     <img src="https://img.shields.io/badge/Deploy-Accesorios%20Lil%C3%ADs-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Accesorios Lilis Live" />
   </a>
@@ -24,7 +27,7 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Desarrollador Full-Stack especializado en el **ecosistema Microsoft** y tecnologías de **frontend moderno**. Experiencia sólida en la construcción de soluciones empresariales utilizando **C#, .NET, X++ (Dynamics 365 Finance & Operations), React y .NET MAUI**. Orientado a la arquitectura de software escalable, aplicando principios **SOLID** y metodologías de **Clean Code** para garantizar la mantenibilidad, seguridad y eficiencia a nivel de base de datos e integraciones.
+Desarrollador Full-Stack especializado en el **ecosistema Microsoft (.NET 10, C#)**, **procesamiento de datos analíticos de alto rendimiento (DuckDB OLAP)** y **frontend moderno con gráficos 3D (React 19, TypeScript, Three.js / WebGL)**. Experiencia sólida en la construcción de soluciones empresariales y científicas utilizando **C#, .NET, X++ (Dynamics 365 Finance & Operations), React, Android Nativo (Kotlin) y .NET MAUI**. Orientado a la arquitectura de software escalable, aplicando principios **SOLID**, metodologías de **Clean Architecture** y flujos **CI/CD** automatizados para garantizar la mantenibilidad, seguridad y rendimiento a nivel de base de datos e integraciones.
 
 📍 **Ubicación:** Neiva, Huila, Colombia  
 📞 **Teléfono / WhatsApp:** [+57 310 2944 906](https://wa.me/573102944906)  
@@ -44,6 +47,28 @@ Desarrollador Full-Stack especializado en el **ecosistema Microsoft** y tecnolog
 
 ## 🚀 Proyectos Destacados
 
+### 🌍 [NASA Earth System Trend Detective — Observatorio Climático 3D & Motor Analítico](https://nasa-earth-trend-detective.vercel.app)
+> **Despliegue en Vivo:** [nasa-earth-trend-detective.vercel.app](https://nasa-earth-trend-detective.vercel.app/) | **Organización:** [github.com/nasa-earth-detectives](https://github.com/nasa-earth-detectives/nasa-earth-trend-detective) | **Mirror Personal:** [github.com/brayancortes22/nasa-earth-trend-detective](https://github.com/brayancortes22/nasa-earth-trend-detective)  
+> **Evento:** NASA International Space Apps Challenge 2026 | **Rol:** Frontend Lead & Full-Stack Architect
+
+[![React 19](https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org/)
+[![WebGL 60 FPS](https://img.shields.io/badge/WebGL-60%20FPS-990000?style=flat-square&logo=webgl&logoColor=white)](https://www.khronos.org/webgl/)
+[![.NET 10](https://img.shields.io/badge/.NET%2010%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-OLAP%20Columnar-FFF000?style=flat-square&logo=duckdb&logoColor=black)](https://duckdb.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/CI%2FCD-3%20Branches-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+
+Plataforma científica global e interactiva para la detección, modelado y visualización de tendencias climáticas y anomalías terrestres a partir de datos satelitales oficiales de la NASA.
+- **Observatorio 3D Inmersivo (GPU Accelerated):** Globo orbital interactivo a 60 FPS desarrollado con Three.js y Globe.gl, integrando cálculo astronómico en tiempo real del punto subsolar UTC, sombras de luz solar, textura de relieve terrestre y capas de contraste térmico.
+- **Motor OLAP Columnar de Alto Rendimiento:** Backend en .NET 10 con DuckDB embebido y esquema analítico estrella (`fact_climate_observations`, dimensiones temporales y espaciales), ejecutando consultas y agregaciones Parquet sobre cientos de miles de registros en menos de 50 ms.
+- **Pipeline ETL Satelital NASA:** Extractores y normalizadores de coordenadas a grilla canónica WGS84 para datasets satelitales (GISTEMP v4, MODIS NDVI, GRACE Mascon y OCO-2 XCO2), incorporando caché atómica en disco y resiliencia con Microsoft HTTP Resilience (Polly).
+- **Gobernanza & DevOps Estricto:** Arquitectura Git Flow de 3 ramas (`development` ➔ `qa` ➔ `production`), Rulesets de protección contra force push, verificación automatizada de autoría limpia mediante GitHub Actions y despliegue continuo en Vercel Edge y Render.
+
+---
+
 ### 💎 [Accesorios Lilís — Plataforma Web Oficial & E-Commerce Artesanal](https://accesorios-lilis-2026.vercel.app)
 > **Producción en Vivo:** [accesorios-lilis-2026.vercel.app](https://accesorios-lilis-2026.vercel.app) | **Repositorio:** [github.com/brayancortes22/accesorios-lilis](https://github.com/brayancortes22/accesorios-lilis)
 
@@ -60,6 +85,22 @@ Plataforma de comercio electrónico y catálogo interactivo creada para el talle
 - **Roles y Gestión:** Panel administrativo de control de inventario, administración de pedidos con trazabilidad de paquetería y enlace directo a WhatsApp para atención al cliente.
 - **DevOps y Automatización:** Pipeline CI/CD con GitHub Actions escalonado (`development` → `qa` → `main`) con chequeo estricto de TypeScript en cada fase y script local de automatización en un clic ([`escalar.bat`](file:///c:/Users/NITRO%20ACER/Desktop/proyectos%20con%20ia/Accesorios%20lilis/escalar.bat)).
 - **SEO Avanzado & Presencia Digital:** Verificación oficial en Google Search Console, Schema.org `JewelryStore` con geolocalización satelital, mapa interactivo oficial de **Google Maps** (taller y punto de venta) y metadatos OpenGraph.
+
+---
+
+### 🎮 Game Translator — Traductor Flotante en Pantalla para Android (On-Device & Offline ML)
+> **Rol:** Diseñador y Desarrollador Android Nativo | **Arquitectura:** Foreground Service & MediaProjection
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Android SDK](https://img.shields.io/badge/Android-SDK%2026--34%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
+[![Google ML Kit](https://img.shields.io/badge/Google-ML%20Kit%20OCR-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/ml-kit)
+[![On-Device ML](https://img.shields.io/badge/ML-100%25%20Offline-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://developers.google.com/ml-kit/vision/text-recognition)
+
+Herramienta nativa para Android de traducción de videojuegos móviles on-demand y en tiempo real, diseñada para jugadores de títulos MMORPG y Survival (LifeAfter, etc.) con textos en inglés o idiomas asiáticos.
+- **Burbuja Flotante Overlay & Cero Interrupción:** Interfaz accesible en todo momento sobre la partida mediante Android `WindowManager` (`TYPE_APPLICATION_OVERLAY`) sin bloquear el gameplay ni requerir salir de la app.
+- **100% On-Device & Protección de Datos:** Procesamiento de OCR (Reconocimiento Óptico de Caracteres) y traducción neuronal completamente local con Google ML Kit, garantizando cero consumo de datos móviles y privacidad absoluta.
+- **Garantía Antiban (Seguridad de Proyección):** Captura de pantalla no intrusiva a través de la API oficial de Android `MediaProjection`, sin manipular la memoria RAM ni inyectar código en los ejecutables del juego.
+- **Modo Francotirador (Sniper / Crop):** Selección táctil dinámica de regiones de pantalla para traducir únicamente diálogos específicos, cartas o menús, con caché en memoria (0 ms) para textos recurrentes y diseño Glassmorphic translúcido.
 
 ---
 
@@ -97,12 +138,13 @@ Aplicación web moderna orientada a la gestión y solicitud de servicios técnic
 
 | Área | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Backend & ERP** | C#, ASP.NET Core Web API, X++ (Dynamics 365 F&O), Python (Django), LINQ, Entity Framework Core, PHP |
-| **Frontend & Mobile** | React 19, TypeScript, JavaScript (ES6+), .NET MAUI, Vite, HTML5, CSS3 Modular, Tailwind CSS |
-| **Bases de Datos** | SQL Server, MySQL, Entity Framework, Modelado relacional |
-| **Arquitectura & Metodologías** | Clean Code, Principios SOLID, Arquitectura en Capas, APIs RESTful |
-| **DevOps & Nube** | GitHub Actions (CI/CD Pipelines), Azure DevOps, Git, GitHub, Vercel, Netlify, Linux |
-| **Seguridad & APIs** | OAuth 2.0 / Google Identity SSO, JWT Bearer, PBKDF2-SHA256, Google Maps API, Google Search Console |
+| **Backend & ERP** | C# (.NET 10 / ASP.NET Core Web API), X++ (Dynamics 365 F&O), Python (Django), LINQ, Entity Framework Core, Polly (Resilience), PHP |
+| **Bases de Datos & OLAP** | DuckDB (Motor OLAP columnar embebido), Apache Parquet, SQL Server, MySQL, Modelado Relacional & Esquema Estrella |
+| **Frontend & Gráficos 3D** | React 19, TypeScript, Three.js / Globe.gl (WebGL 3D 60 FPS), JavaScript (ES6+), Vite, Tailwind CSS, Glassmorphism UI |
+| **Móvil & Machine Learning** | Android Nativo (Kotlin), Google ML Kit (OCR & On-Device Translation), MediaProjection, .NET MAUI |
+| **Arquitectura & Metodologías** | Clean Code, Principios SOLID, Clean Architecture, Arquitectura en Capas, APIs RESTful, DTOs |
+| **DevOps & Nube** | GitHub Actions (CI/CD Multi-Branch: `development` / `qa` / `production`), Docker, Azure DevOps, Git, Vercel Edge, Render, Netlify, Linux |
+| **Seguridad & APIs** | OAuth 2.0 / Google Identity SSO, JWT Bearer, PBKDF2-SHA256, NASA EarthData API / CMR, Google Maps API, Google Search Console |
 
 ---
 
