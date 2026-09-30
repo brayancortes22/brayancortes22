@@ -108,7 +108,7 @@ Herramienta nativa para Android de traducción de videojuegos móviles on-demand
 ---
 
 ### 🎓 [Portal de Autogestión SENA — Plataforma Web & Móvil Integral](https://autogestion-sena.vercel.app)
-> **Producción en Vivo:** [autogestion-sena.vercel.app](https://autogestion-sena.vercel.app) | **API & Swagger UI:** [autogestion-sena-api.onrender.com/swagger/](https://autogestion-sena-api.onrender.com/swagger/)  
+> **Producción en Vivo:** [autogestion-sena.vercel.app](https://autogestion-sena.vercel.app) | **API & Swagger UI:** [autogestion-sena-api.onrender.com/swagger/](https://autogestion-sena-api.onrender.com/swagger/) | **Health Monitor:** [autogestion-sena-api.onrender.com/health](https://autogestion-sena-api.onrender.com/health)  
 > **Repositorios GitHub:** [Backend Web API](https://github.com/July173/Back-end-web-API-autogestionSena) · [Frontend Web](https://github.com/July173/autogestionFrontWeb) · [Frontend Móvil](https://github.com/July173/FrontMovilAutogestion)  
 > **Rol:** Full-Stack Lead & Software Architect
 
